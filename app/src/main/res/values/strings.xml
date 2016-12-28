@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Ashoka Quiz</string>
+    <string name="HintText">Answer</string>
+    <string name="Q1">Qn.1: Who was the chief guest on the occasion of the first Foundation Day of Ashoka University?</string>
+    <string name="Q2">Qn.2: Who owns the email ID "saran@ashoka.edu.in"?</string>
+    <string name="A2a">Maya Saran</string>
+    <string name="A2b">Kranti Saran</string>
+    <string name="Q3">Qn.3: Which of these are actual rooms in the old academic block?</string>
+    <string name="A3a">LT106</string>
+    <string name="A3b">LT107</string>
+    <string name="A3c">LT207</string>
+    <string name="Q4">Qn.4: Which city would you associate with the Dean of Undergraduate Programs?</string>
+    <string name="A4a">Boston</string>
+    <string name="A4b">Boston</string>
+    <string name="A4c">Boston</string>
+    <string name="Q5">Qn.5: What is the postal code of Ashoka?</string>
+</resources>
