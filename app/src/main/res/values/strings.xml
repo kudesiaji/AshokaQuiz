@@ -14,4 +14,7 @@
     <string name="A4b">Boston</string>
     <string name="A4c">Boston</string>
     <string name="Q5">Qn.5: What is the postal code of Ashoka?</string>
+    <string name="calculate_score_button_text">Calculate Score</string>
+    <string name="Answer1">Kailash Satyarthi</string>
+    <string name="Answer5">131029</string>
 </resources>

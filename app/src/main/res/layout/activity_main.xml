@@ -15,7 +15,7 @@
             android:layout_width="match_parent"
             android:layout_height="match_parent"
             android:scaleType="fitStart"
-            android:src="@drawable/background_ashoka" />
+            android:src="@mipmap/background_ashoka" />
 
         <LinearLayout
             android:id="@+id/activity_main"
@@ -54,6 +54,7 @@
                 android:textSize="16sp" />
 
             <RadioGroup
+                android:id="@+id/A2"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginBottom="@dimen/activity_vertical_margin"
@@ -85,6 +86,7 @@
                 android:textSize="16sp" />
 
             <LinearLayout
+                android:id="@+id/A3"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginBottom="@dimen/activity_vertical_margin">
@@ -122,6 +124,7 @@
                 android:textSize="16sp" />
 
             <RadioGroup
+                android:id="@+id/A4"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:layout_marginBottom="@dimen/activity_vertical_margin"
@@ -175,7 +178,8 @@
                     android:layout_width="wrap_content"
                     android:layout_height="wrap_content"
                     android:layout_centerHorizontal="true"
-                    android:text="Calculate Score" />
+                    android:onClick="displayScore"
+                    android:text="@string/calculate_score_button_text" />
 
             </RelativeLayout>
 
